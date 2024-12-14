@@ -4,7 +4,7 @@
 
 - **Последовательность**:
   `MDADVISFEASRGDLVVLDAIHDARFETEAGPGVYDIHSPRIPSEKEIEDRIYEILDKIDVKKVWINPDCGLKTRGNDETWPSLEHLVAAAKAVRARLDK`
-- **Программы-предсказатели**: `RoseTTAFold2`, `OpenFold`
+- **Программы-предсказатели**: `ESMFold`, `AlphaFold2`
 - **Программа для выравнивания**: `CLICK`
 
 ## Полученные ноутбуки
